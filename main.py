@@ -12,6 +12,6 @@
 #     else:
 #         print('error')
 #         break
-#
+#https://wikidocs.net/60
 
 print(int('6'))
